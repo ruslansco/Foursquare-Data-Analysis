@@ -1,6 +1,6 @@
 #11/16/2017
 #Author: Ruslan Shakirov
-#Data Visualization of Foursquare check-ins - New York & Tokyo.
+#Map Visualization of Foursquare check-ins - New York & Tokyo.
 
 import pandas as pd
 import numpy as np
